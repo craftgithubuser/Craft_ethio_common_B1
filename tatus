@@ -1,0 +1,93 @@
+[33mcommit 29241efcc2ab42a8733d36f92d35fd3612dfec09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: merdii <merdiya7@gmail.com>
+Date:   Wed May 29 12:28:28 2024 +0300
+
+    I created change.txt fille
+
+[33mcommit 7effd54926c99c5b1ec91721611d7f558cffcb4f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 68ee880 21def24
+Author: NatnaelKiflu <natnaelkiflu39@gmail.com>
+Date:   Tue May 28 19:17:46 2024 +0300
+
+    Merge branch 'main' of https://github.com/craftgithubuser/Craft_ethio_common_B1
+
+[33mcommit 68ee88053e253b13e41c50e2e4cf947245ca2b69[m
+Author: NatnaelKiflu <natnaelkiflu39@gmail.com>
+Date:   Tue May 28 19:17:11 2024 +0300
+
+    I added a file NatiChange1.txt
+
+[33mcommit 21def245ed54c288cae66aa3305719ea09ffae94[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 19:14:20 2024 +0300
+
+    I made a change
+
+[33mcommit a1ced4fd11d3dc48b8549e2c0a05e6bbdd79d386[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 19:06:12 2024 +0300
+
+    Revert "modification on change1.txt file"
+    
+    This reverts commit 06b18bbc05f16db5f587ae6a2b08e21672964345.
+
+[33mcommit 06b18bbc05f16db5f587ae6a2b08e21672964345[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 19:04:20 2024 +0300
+
+    modification on change1.txt file
+
+[33mcommit 966c91ed709d66c1356aa750d834f0bbf10fc274[m
+Merge: 96913b1 5a94e7d
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 19:01:14 2024 +0300
+
+    Merge branch 'main' of https://github.com/craftgithubuser/Craft_ethio_common_B1
+
+[33mcommit 96913b1407346de512600c920b9d3ea81d15b737[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:59:16 2024 +0300
+
+    I created change6.txt file
+
+[33mcommit 5a94e7d381e34044d201c109466cfdb8c3eb55c5[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue May 28 18:57:23 2024 +0300
+
+    Create Change5.txt file
+
+[33mcommit 91d8be0c439f8fe6b8ac9112503ae9052274115e[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:55:06 2024 +0300
+
+    I created change4.txt file
+
+[33mcommit 877c918924f8f12f4e5848718ad4eec54d2794b1[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:50:22 2024 +0300
+
+    I modified change1.txt file
+
+[33mcommit 8c4edc406f8ca6fb806cd4852cf2edab76087230[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:48:05 2024 +0300
+
+    I created change3.txt file
+
+[33mcommit 0ce2822295dbef9811fdc8fff8e0f338c3969149[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:46:14 2024 +0300
+
+    I created change2.txt file
+
+[33mcommit 14d990a92423f4513f7fd8fa9b5af62e4eee375c[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Tue May 28 18:42:13 2024 +0300
+
+    I created a txt file
+
+[33mcommit c366bf31d87a889b8329e30a0b72ab3343916a2f[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue May 28 18:23:34 2024 +0300
+
+    Initial commit
