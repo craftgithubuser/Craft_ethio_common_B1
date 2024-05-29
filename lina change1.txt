@@ -1,0 +1,2 @@
+ version control -- 2 types of version control add
+centeral and distributed
