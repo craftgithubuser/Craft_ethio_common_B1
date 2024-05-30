@@ -1,0 +1,42 @@
+Branching guide:
+
+checking or listing branch:
+--------------------------
+git branch
+
+Creating a branch:
+-----------------
+git branch nameOfthebranch
+
+git branch feature_01
+
+git branch feature_02
+
+git branch dev_01
+
+
+Switching between branches:
+--------------------------
+
+git chechout nameOfthebranch
+
+git checkout main
+
+git checkout feature_01
+
+Creating and Switching branches:
+-------------------------------
+git checkout -b nameOfthebranch
+
+git checkout -b dev_02
+
+Deleting branches:
+-----------------
+git branch -d branchName
+git branch -d dev_01
+
+Merging branches:
+---------------
+git merge branchName
+
+git merge feature_01
